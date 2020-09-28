@@ -9,4 +9,4 @@ Takes two arguments:
 
 Then the pairwise comparison begins. 
 
-All input data MUST be in `.txt` format, which could be obtained from converting audio files to `.wav` extension, and converting the `waw` to `.txt`.
+All input data MUST be in `.txt` format, which could be obtained from converting audio files to `.wav` extension, and converting the `.wav` file to `.txt`.
